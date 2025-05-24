@@ -1,6 +1,6 @@
 # ME-101-C++
 
-This repository contains all C++ source code written for **ME 101: Introduction to Mechanical Engineering Practice 2** at the University of Waterloo.
+This repository contains all C++ source code written for **ME 101: Introduction to Mechanical Engineering Practice 2** at the University of Waterloo type shi.
 
 ## 📘 Course Overview
 
